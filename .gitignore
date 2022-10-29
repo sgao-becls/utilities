@@ -1,0 +1,11 @@
+*~
+
+# Mac
+.DS_Store
+
+# Intellij
+.idea/
+out/
+*.iml
+*.iws
+.factorypath
